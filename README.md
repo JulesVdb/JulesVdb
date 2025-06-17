@@ -27,7 +27,7 @@
 
 ## 📊 Mes stats GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVdb-ss&layout=compact&theme=midnight-purple)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVdb&layout=compact&theme=midnight-purple)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=midnight-purple)](https://git.io/streak-stats)
 
 ---
