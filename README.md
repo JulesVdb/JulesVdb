@@ -25,15 +25,17 @@
 
 ---
 
-## 📊 Mes stats GitHub
+## 📊 Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVdb&layout=compact&theme=midnight-purple)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sores-ss&theme=midnight-purple)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Julesvdb&theme=midnight-purple)
+
+---
+
+## 📫 Me contacter
+
+- 📧 **Mail pro** : jules.vandenbosch.pro@gmail.com  
+- 📧 **Mail Epitech** : jules.vanden-bosch@epitech.eu  
+- 📱 **Téléphone** : +32 476 01 10 74
 
 ---
 
-## 📫 Contact
-
-Si vous êtes recruteur ou curieux de discuter dev, n’hésitez pas à me contacter via GitHub.
-
----
