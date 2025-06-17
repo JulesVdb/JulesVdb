@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Stats GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Julesvdb&theme=midnight-purple)
 
