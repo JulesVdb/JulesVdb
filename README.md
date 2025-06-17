@@ -25,12 +25,6 @@
 
 ---
 
-## 📊 Stats GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Julesvdb&theme=midnight-purple)
-
----
-
 ## 📫 Me contacter
 
 - 📧 **Mail pro** : jules.vandenbosch.pro@gmail.com  
