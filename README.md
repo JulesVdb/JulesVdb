@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Jules
 
-<!--
-**JulesVdb/JulesVdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant à **Epitech Lille**, actuellement en fin de première année (Tek1), bientôt en Tek2.  
+💼 À la recherche d’un **stage de 4 mois** (septembre → décembre 2025).  
+🕹️ Passionné de développement, j’aime relever des défis techniques et apprendre par la pratique.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences
+
+- 💻 Langages :
+  - `C`
+  - `Python`
+  - `JavaScript` (Node.js)
+
+- 🛠️ Outils & environnements :
+  - `Git`, `Docker`, `Linux`, `VS Code`
+
+---
+
+## 🕹️ Dernier projet : **Wolf3D**
+
+🔫 Reproduction en C du jeu **Wolfenstein 3D**, dans le cadre de ma formation à Epitech.  
+📐 Gestion du rendu 3D avec raycasting, moteur de jeu en C pur, gestion des entrées clavier, textures, collisions…
+
+---
+
+## 📊 Mes stats GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Julesvdb&show_icons=true&theme=tokyonight)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julesvdb&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+Si vous êtes recruteur ou curieux de discuter dev, n’hésitez pas à me contacter via GitHub.
+
+---
