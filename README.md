@@ -25,6 +25,13 @@
 
 ---
 
+## 📊 Mes stats GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVdb&layout=compact&theme=midnight-purple)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=JulesVdb&theme=midnight-purple)](https://git.io/streak-stats)
+
+---
+
 ## 📫 Me contacter
 
 - 📧 **Mail pro** : jules.vandenbosch.pro@gmail.com  
