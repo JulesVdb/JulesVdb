@@ -18,17 +18,18 @@
 
 ---
 
-## 🕹️ Dernier projet : **Wolf3D**
+## 🕹️ Dernier projet : [**Wolf3D**](https://github.com/Julesvdb/Wolf3D)
 
 🔫 Reproduction en C du jeu **Wolfenstein 3D**, dans le cadre de ma formation à Epitech.  
 📐 Gestion du rendu 3D avec raycasting, moteur de jeu en C pur, gestion des entrées clavier, textures, collisions…
 
 ---
 
-## 📊 Mes stats GitHub
+## 📊 Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesVdb&layout=compact&theme=midnight-purple)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=JulesVdb&theme=midnight-purple)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julesvdb&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julesvdb&layout=compact&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com?user=Julesvdb&theme=midnight-purple)
 
 ---
 
