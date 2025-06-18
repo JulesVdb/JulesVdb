@@ -29,7 +29,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julesvdb&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julesvdb&layout=compact&theme=midnight-purple)
-![GitHub Streak](https://streak-stats.demolab.com?user=Julesvdb&theme=midnight-purple)
 
 ---
 
