@@ -1,27 +1,41 @@
-# 👋 Salut, moi c’est Jules
+# 👋 Salut, moi c'est Jules
 
-🎓 Étudiant à **Epitech Lille**, actuellement en tek3.  
-💼 À la recherche d’un **stage de 4 mois** (septembre → décembre 2025).  
-🕹️ Passionné de développement, j’aime relever des défis techniques et apprendre par la pratique.
+🎓 Étudiant à **Epitech Lille**, actuellement en **Tek3** (3ᵉ année).
+💼 À la recherche d'un **stage à temps partiel** : du **17 septembre 2026 au 26 février 2027**, les jeudis et vendredis.
+🔐 Orienté **développement, réseau et cybersécurité**.
+⚡ J'aime relever des défis techniques et apprendre par la pratique.
 
 ---
 
 ## 🔧 Compétences
 
-- 💻 Langages :
+- 💻 **Langages**
   - `C`
+  - `C++`
   - `Python`
-  - `JavaScript` (Node.js)
-
-- 🛠️ Outils & environnements :
-  - `Git`, `Docker`, `Linux`, `VS Code`
+  - `Bash`
+  - `PHP`
+- 🛠️ **Outils & environnements**
+  - `Git` / `GitHub` · `Docker` · `Linux` · `CI/CD` · `VS Code`
+- 🌐 **Web**
+  - `WordPress`, développement de sites et d'outils web
+- 🔐 **Réseau & cybersécurité**
+  - Protocoles réseau, pentesting, CTF
 
 ---
 
-## 🕹️ Dernier projet : [**Wolf3D**](https://github.com/Julesvdb/Wolf3D)
+## 💼 Expérience
 
-🔫 Reproduction en C du jeu **Wolfenstein 3D**, dans le cadre de ma formation à Epitech.  
-📐 Gestion du rendu 3D avec raycasting, moteur de jeu en C pur, gestion des entrées clavier, textures, collisions…
+**Stagiaire en infogérance — Sollix (Orchies)** · 4 mois
+Déploiement de postes Windows, support IT, automatisation PowerShell et développement de sites WordPress.
+
+---
+
+## 🕹️ Dernier projet : **Zappy**
+
+🌍 Serveur de jeu **multijoueur en réseau**, développé dans le cadre de ma formation à Epitech.
+⚙️ Serveur en **C++** gérant les connexions simultanées et le protocole de communication, client graphique pour la visualisation, et **IA autonome en Python** capable de collecter des ressources, coopérer avec son équipe et faire évoluer ses joueurs.
+🧠 Projet en équipe, axé sur la programmation réseau, la gestion d'états concurrents et la conception d'une IA prenant ses décisions seule.
 
 ---
 
@@ -34,9 +48,6 @@
 
 ## 📫 Me contacter
 
-- 📧 **Mail pro** : jules.vandenbosch.pro@gmail.com  
-- 📧 **Mail Epitech** : jules.vanden-bosch@epitech.eu  
+- 📧 **Mail pro** : jules.vandenbosch.pro@gmail.com
+- 📧 **Mail Epitech** : jules.vanden-bosch@epitech.eu
 - 📱 **Téléphone** : +32 476 01 10 74
-
----
-
