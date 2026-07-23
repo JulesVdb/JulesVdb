@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Jules
 
-🎓 Étudiant à **Epitech Lille**, actuellement en **Tek3** (3ᵉ année).
+🎓 Étudiant à **Epitech Lille**, actuellement en **Tek3** (3ᵉ année)./n
 💼 À la recherche d'un **stage à temps partiel** : du **17 septembre 2026 au 26 février 2027**, les jeudis et vendredis.
 🔐 Orienté **développement, réseau et cybersécurité**.
 ⚡ J'aime relever des défis techniques et apprendre par la pratique.
